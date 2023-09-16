@@ -1,0 +1,14 @@
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.AssemblyInfoInputs.cache
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.AssemblyInfo.cs
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.csproj.CoreCompileInputs.cache
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\bin\Debug\net7.0\AlgoritimoQuickSortCsharp.exe
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\bin\Debug\net7.0\AlgoritimoQuickSortCsharp.deps.json
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\bin\Debug\net7.0\AlgoritimoQuickSortCsharp.runtimeconfig.json
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\bin\Debug\net7.0\AlgoritimoQuickSortCsharp.dll
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\bin\Debug\net7.0\AlgoritimoQuickSortCsharp.pdb
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.dll
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\refint\AlgoritimoQuickSortCsharp.dll
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.pdb
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\AlgoritimoQuickSortCsharp.genruntimeconfig.cache
+C:\Users\imper\RiderProjects\AlgoritimoQuickSortCsharp\AlgoritimoQuickSortCsharp\obj\Debug\net7.0\ref\AlgoritimoQuickSortCsharp.dll
